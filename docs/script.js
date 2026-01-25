@@ -4,7 +4,7 @@ const projetos = {
       foto: 'images/projects/ondeficar.png',
       video: 'https://www.youtube.com/embed/dMEClOXG4w8',
       descricao: 'Sistema desenvolvido em Django para Web que simula um site de aluguel de imóveis, criado por mim, Dival Lucas.',
-      verOnline: 'https://luc5z.github.io/ondeficar/',
+      verOnline: 'https://lusca404.github.io/ondeficar/',
       repositorio: 'https://github.com/Luc5z/ondeficar.com',
     },
 
@@ -31,7 +31,7 @@ const projetos = {
       foto: 'images/projects/netflixo.png',
       video: '',
       descricao: 'Sistema desenvolvido em Django para Web que simula um site de streaming de filmes, criado por mim, Dival Lucas.',
-      verOnline: 'https://luc5z.github.io/Netflix/',
+      verOnline: 'https://lusca404.github.io/Netflix/',
       repositorio: 'https://github.com/Luc5z/simple-video-streaming?tab=readme-ov-file',
     },
 
@@ -39,7 +39,7 @@ const projetos = {
         titulo: 'Aula de Git',
         foto: 'images/projects/aulagithub.jpeg',
         descricao: 'Site feito com intuito de ensiar calouros da faculdade de Ciência da computação e Análise e Desenvolvimento de Sistemas a como usar Git e Github da melhor forma',
-        verOnline: 'https://luc5z.github.io/aulaGithub', 
+        verOnline: 'https://lusca404.github.io/aulaGithub', 
         repositorio: 'https://github.com/Luc5z/aulaGithub',
     },
 
